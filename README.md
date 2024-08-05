@@ -14,8 +14,9 @@ Your serverless wiki in 5 minutes:
 3. Click `Code` tab and edit `mkdocs.yml`
    ```md
    site_name: <Your Wiki Name>
-   site_url: https://github.com/<username>/<repositoryname>/
-   repo_url: https://github.com/<username>/<repositoryname>/wiki
+   site_url: https://github.com/username/repositoryname/
+   repo_url: https://github.com/username/repositoryname/wiki
    ```
+4. Click `Actions` and wait for completion of workflow run `Update mkdocs.yml`
 5. Activate `GitHub Pages`
    - Click `Settings` tab, click `Pages`, select branch `gh-pages` and click `Save`
