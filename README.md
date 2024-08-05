@@ -1,4 +1,4 @@
-# GitHub Wiki With Mkdocs Material Frontend
+# Your Own Serverless Wiki
 
 Your own serverless wiki in 5 minutes:
 - GitHub Wiki as powerful backend and edit frontend restricted to authenticated users
