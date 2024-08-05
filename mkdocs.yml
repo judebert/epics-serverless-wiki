@@ -1,0 +1,16 @@
+site_name: Hotmaps Wiki
+site_url: https://danieldreke.github.io/github-wiki-with-mkdocs-frontend/
+repo_url: https://github.com/danieldreke/github-wiki-with-mkdocs-frontend/wiki
+edit_uri: ./_edit
+hooks:
+  - fix_edit_url.py
+# extra:
+#   generator: false  # remove the default "Made with Material for MkDocs" notice
+plugins:
+  - search
+theme:
+  name: material
+  # language: en
+  # locale: en
+  features:
+    - content.action.edit
