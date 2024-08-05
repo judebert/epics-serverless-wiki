@@ -13,6 +13,7 @@ Your serverless wiki in 5 minutes:
 2. Click `Wiki` tab and add page `Home`
 3. Click `Code` tab and edit `mkdocs.yml`
    ```md
+   site_name: <Your Wiki Name>
    site_url: https://github.com/<username>/<repositoryname>/
    repo_url: https://github.com/<username>/<repositoryname>/wiki
    ```
