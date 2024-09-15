@@ -1,6 +1,6 @@
 site_name: Epic Wiki
 site_url: https://judebert.github.io/epics-serverless-wiki/
-repo_url: https://github.com/judebert/serverless-wiki/wiki
+repo_url: https://github.com/judebert/epics-serverless-wiki/wiki
 edit_uri: ./_edit
 hooks:
   - change_edit_url.py
